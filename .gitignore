@@ -1,0 +1,15 @@
+#folder
+bin/
+.vs/
+obj/
+Debug/
+Release/
+packages/
+CD_ROM/
+DVD-5/
+SingleImage/
+
+*.pdb
+*.config
+*.manifest
+*.vshost.exe
